@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.anh-ques {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+}
+
+.anh-btn {
+  background-color: rgb(36, 107, 206);
+  color: white;
+  width: 500px;
+  border-radius: 10px;
+  height: 50px;
+  text-align: left;
+  padding-left: 20px;
+}
